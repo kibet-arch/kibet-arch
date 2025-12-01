@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @kibet-arch
-- 👀 I’m interested in Iot, cybersecurity, software development and so much more
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kibet-arch/kibet-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋Hi, I am Gershon
+-I am interested in Iot, cybersecurity,   software engineering, AI development and so much more
+-I am currently learning Django
+-Currently building a startup, looking forward to finding collaboration 
